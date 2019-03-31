@@ -1,5 +1,0 @@
-Ao executar o .jar, executar na mesma pasta em que estao os arquivos: 
-	userCadastrados.txt;
-	IMDB_QB.txt;
-	IMDB.txt
-	IMDB final delimitador [..] .txt (os dois com essas iniciais)
