@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="IFilms/src"/>
+	<classpathentry kind="lib" path="iFilmes.jar"/>
+	<classpathentry kind="lib" path="IFilms/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="output" path="IFilms/bin"/>
+</classpath>
