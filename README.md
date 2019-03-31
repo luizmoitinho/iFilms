@@ -6,3 +6,8 @@ desejassem com auxilio de algoritmos de busca.
 Para utilizar a aplicação basta que crie uma conta, local, fornecendo dados. Feito isso, basta ordenar os filmes de acordo como preferir, 
 data, custos ou buscar por nomes.
 
+Ao executar o .jar, executar na mesma pasta em que estao os arquivos: 
+	userCadastrados.txt;
+	IMDB_QB.txt;
+	IMDB.txt
+	IMDB final delimitador [..] .txt (os dois com essas iniciais)
